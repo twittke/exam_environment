@@ -1,7 +1,7 @@
 #include <assert.h>
 #include <stdio.h>
 #include "datastructures.h"
-#include "../compare/compare.h"
+//#include "../compare/compare.h"
 
 int main(void) {
     // Integers
